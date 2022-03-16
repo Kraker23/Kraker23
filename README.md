@@ -39,6 +39,7 @@
 <p align="left">
   &nbsp; <a href="https://linkedin.com/in/cristianj23" target="blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristianj23" width="40" height="40" /></a>
   &nbsp; <a href="mailto:thekraker23@gmail.com" target="blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="40" height="40"/></a>
+    &nbsp; <a href="mailto:thekraker23@gmail.com" target="blank" rel="noopener noreferrer"><img src="https://img2.freepng.es/20180330/wfq/kisspng-gmail-computer-icons-email-google-g-suite-gmail-5abe0f4174d0c5.8498614715224051854785.jpg"  width="40" height="40"/></a>
   
 </p>
 
