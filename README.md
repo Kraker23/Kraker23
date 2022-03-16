@@ -38,7 +38,7 @@
 <h3 align="left">🤝🏻 Connect with me: 🔗</h3>
 <p align="left">
   &nbsp; <a href="https://linkedin.com/in/cristianj23" target="blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristianj23" width="40" height="40" /></a>
-  &nbsp; <a href="mailto:thekraker23@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="40" height="40"/></a>
+  &nbsp; <a href="mailto:thekraker23@gmail.com" target="blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="40" height="40"/></a>
   
 </p>
 
