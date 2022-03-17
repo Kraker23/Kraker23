@@ -29,7 +29,7 @@
 
 <br>
 
-<h3 align="left">Lenguajes y Herramientas: 🛠</h3>
+<h3 align="left">Lenguajes y Herramientas de uso diario: 🛠</h3>
 <p align="left"> 
     &nbsp; <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
     &nbsp; <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
@@ -37,6 +37,9 @@
     &nbsp; <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
 </p>
 
+<h3 align="left">Lenguajes y Herramientas que he usado: 🛠</h3>
+<h4> Lenguajes</h4>
+<code>fdglj</code>
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
