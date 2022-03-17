@@ -1,5 +1,5 @@
 <img align='left' alt = 'Awesome Matrix Code' src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' width="100" height="100"/>
-<h1 align="center">Hi 👋, I'm Kraker</h1>
+<h1 align="center">Hola 👋, Soy Kraker, bienvenido</h1>
 
 <h3 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Un apasionado desarrollador Full-stack .net de Barcelona
 </h3>
