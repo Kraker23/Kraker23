@@ -104,12 +104,12 @@
 		</code>
 - &nbsp; - Angular <code>
 			<a href="https://angular.io" target="_blank">
-				<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="20" height="20"/>
+				<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular"  height="20"/>
 			</a>
 		</code>
 - &nbsp; -PHP <code>
 			<a href="https://www.php.net" target="_blank">
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="20" height="20"/>
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="20"/>
 			</a>
 		</code>
 
