@@ -2,17 +2,16 @@
 <h3 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> A passionate Full-stack .net developer from Barcelona</h3>
 Soy un desarrollador Full Stack con más de 6 años de experiencia en el desarrollo de aplicaciones empresariales y mantenimiento 
 
-<img align='right' alt = 'Awesome Matrix Code' src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' width="200" height="200"/>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="200" height="200"/>
+<img align='right' alt = 'Awesome Matrix Code' src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' width="150" height="150"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="150" height="150"/>
 
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 
 - 🔭 &nbsp; Actualmente y siempre estoy en mejora constante.
-- 🤔 &nbsp; 
 - 💼 &nbsp; Me encanta el poder crear herramientas para poder agilizar mi trabajo, o hacerlo mas facil.
-- ✍️ &nbsp; Me gusta aprendee nuevas formas de crear codigo y programas.
+- ✍️ &nbsp; Me gusta aprender nuevas formas de crear codigo y programas.
 - ☕ &nbsp; Me gusta trabajar en un equipo con buen ambiente, donde poder hablar y debatir sobre programacion, entre otros temas. 
 
 
