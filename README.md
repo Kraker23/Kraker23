@@ -39,46 +39,79 @@
  🔧 
  🖥 
  
+
+
+<h3 align="left"> -> 🖥 IDEs o herramientas:</h3>
+- 💻 &nbsp; Visual Studio <code></code>
+- 💻 &nbsp; IntelliJ IDEA <code></code>
+- 💻 &nbsp; Sublime Text <code></code>
+- 💻 &nbsp; NotePad++ <code></code>
+- 💻 &nbsp; Forks <code></code>
+- 💻 &nbsp; Arduino <code></code>
+- 💻 &nbsp; Android studio <code></code>
+- 💻 &nbsp; Eclipse <code></code>
+- 💻 &nbsp; Visual Studio Code <code></code>
+- 💻 &nbsp; Git <code></code>
+- 💻 &nbsp; Raspberry Pi <code></code>
+- 💻 &nbsp; Unity <code></code>
+
+<h3 align="left"> -> 💻 Lenguajes:</h3>
+- 💻 &nbsp; C# <code></code>
+- 💻 &nbsp; Java <code></code>
+- 💻 &nbsp; C <code></code>
+- 💻 &nbsp; C++ <code></code>
+- 💻 &nbsp; Python <code></code>
+
+<h3 align="left"> -> 🛢 BBDD:</h3>
+- 💻 &nbsp; TSQL <code></code>
+- 💻 &nbsp; Mysql <code></code>
+- 💻 &nbsp; Firebase <code></code>
+- 💻 &nbsp; PostgresSql <code></code>
+- 💻 &nbsp; Oracle <code></code>
+
+
+
 <h3 align="left"> -> 🌐 Web:</h3>
- &nbsp; - HTML <code><a href="https://www.w3.org/html/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></code>
- &nbsp; - CSS <code><a href="https://www.w3schools.com/css/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></code>
- &nbsp; - JavaScript <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
- &nbsp; - Postman <code><a href="https://postman.com" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+ &nbsp; - HTML <code>
+	<a href="https://www.w3.org/html/" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/>
+	</a>
+</code>
+ &nbsp; - CSS <code>
+	<a href="https://www.w3schools.com/css/" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/>
+	</a>
+</code>
+ &nbsp; - JavaScript <code>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+		<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+		</a>
 	</code>
- &nbsp; - bootstrap <code><a href="https://getbootstrap.com" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
+ &nbsp; - Postman <code>
+		<a href="https://postman.com" target="_blank">
+			<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="20" height="20"/>
+		</a>
 	</code>
- &nbsp; - node.js <code><a href="https://nodejs.org" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></code>
-- &nbsp; - Angular <code><a href="https://angular.io" target="_blank">
-		<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-	</a></code>
-- &nbsp; -PHP <code><a href="https://www.php.net" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-	</a></code>
-- &nbsp; -
-- 💻 &nbsp; Android studio
-
-C
-C++
-python
-Mysql
-Firebase
-PostgresSql
-Oracle
-
-
-Java
-Arduino
-raspberry pi
-Unity
-
-Visual Studio Code
-Eclipse
-Git
-IntelliJ IDEA
+ &nbsp; - bootstrap <code>
+		<a href="https://getbootstrap.com" target="_blank">
+			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="20" height="20"/>
+		</a>
+	</code>
+ &nbsp; - node.js <code>
+		<a href="https://nodejs.org" target="_blank">
+			<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+			</a>
+		</code>
+- &nbsp; - Angular <code>
+			<a href="https://angular.io" target="_blank">
+				<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="20" height="20"/>
+			</a>
+		</code>
+- &nbsp; -PHP <code>
+			<a href="https://www.php.net" target="_blank">
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="20" height="20"/>
+			</a>
+		</code>
 
 
 
