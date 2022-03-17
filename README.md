@@ -70,16 +70,15 @@
 - 💻 &nbsp; Oracle <code></code>
 
 
-
 <h3 align="left"> -> 🌐 Web:</h3>
  &nbsp; - HTML <code>
 	<a href="https://www.w3.org/html/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="20"/>
 	</a>
 </code>
  &nbsp; - CSS <code>
 	<a href="https://www.w3schools.com/css/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="20"/>
 	</a>
 </code>
  &nbsp; - JavaScript <code>
@@ -89,12 +88,12 @@
 	</code>
  &nbsp; - Postman <code>
 		<a href="https://postman.com" target="_blank">
-			<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="20" height="20"/>
+			<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="20"/>
 		</a>
 	</code>
  &nbsp; - bootstrap <code>
 		<a href="https://getbootstrap.com" target="_blank">
-			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="20" height="20"/>
+			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="20"/>
 		</a>
 	</code>
  &nbsp; - node.js <code>
@@ -104,7 +103,7 @@
 		</code>
 - &nbsp; - Angular <code>
 			<a href="https://angular.io" target="_blank">
-				<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular"  height="20"/>
+				<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" height="20"/>
 			</a>
 		</code>
 - &nbsp; -PHP <code>
