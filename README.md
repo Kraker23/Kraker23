@@ -70,21 +70,21 @@
 
 
 <h3 align="left"> -> 🌐 Web:</h3>
- &nbsp; - HTML <code><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="20"/></a></code>
+- &nbsp; HTML <code><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="20"/></a></code>
  
- &nbsp; - CSS <code><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="20"/></a></code>
+- &nbsp; CSS <code><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="20"/></a></code>
  
- &nbsp; - JavaScript <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
+- &nbsp; JavaScript <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
  
- &nbsp; - Postman <code><a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="20"/></a></code>
+- &nbsp; Postman <code><a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="20"/></a></code>
 	
- &nbsp; - bootstrap <code><a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="20"/></a></code>
+- &nbsp; bootstrap <code><a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="20"/></a></code>
 			
- &nbsp; - node.js <code><a href="https://nodejs.org" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></code>
+- &nbsp; node.js <code><a href="https://nodejs.org" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></code>
 		
-- &nbsp; - Angular <code><a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" height="20"/></a></code>
+- &nbsp; Angular <code><a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" height="20"/></a></code>
 		
-- &nbsp; -PHP <code><a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="20"/></a></code>
+- &nbsp; PHP <code><a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="20"/></a></code>
 
 
 
