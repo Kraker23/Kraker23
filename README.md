@@ -1,8 +1,10 @@
 <img align='left' alt = 'Awesome Matrix Code' src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' width="100" height="100"/>
 <h1 align="center">Hi 👋, I'm Kraker</h1>
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> A passionate Full-stack .net developer from Barcelona</h3>
-Soy un desarrollador Full Stack con más de 6 años de experiencia en el desarrollo de aplicaciones empresariales y mantenimiento 
+<h3 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Un apasionado desarrollador Full-stack .net de Barcelona
+</h3>
+
+<h4>Soy un desarrollador Full Stack con más de 6 años de experiencia en el desarrollo de aplicaciones empresariales y mantenimiento </h4>
 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="150" height="150"/>
