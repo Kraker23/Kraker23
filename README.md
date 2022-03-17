@@ -10,14 +10,13 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="150" height="150"/>
 
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> 👨🏻‍💻 Sobre Mi </h3>
 
 
 - 🔭 &nbsp; Actualmente y siempre estoy en mejora constante.
 - 💼 &nbsp; Me encanta el poder crear herramientas para poder agilizar mi trabajo, o hacerlo mas facil.
 - ✍️ &nbsp; Me gusta aprender nuevas formas de crear codigo y programas.
 - ☕ &nbsp; Me gusta trabajar en un equipo con buen ambiente, donde poder hablar y debatir sobre programacion, entre otros temas. 
-
 
 
 <h3>🛠 Tech Stack</h3>
@@ -30,7 +29,7 @@
 
 <br>
 
-<h3 align="left">Languages and Tools: 🛠</h3>
+<h3 align="left">Lenguajes y Herramientas: 🛠</h3>
 <p align="left"> 
     &nbsp; <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
     &nbsp; <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
