@@ -2,7 +2,7 @@
 <h3 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> A passionate Full-stack .net developer from Barcelona</h3>
 Soy un desarrollador Full Stack con más de 6 años de experiencia en el desarrollo de aplicaciones empresariales y mantenimiento 
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' width="200" height="200"/>
+<img align='right' alt = 'Awesome Matrix Code' src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' width="200" height="200"/>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="200" height="200"/>
 
 
