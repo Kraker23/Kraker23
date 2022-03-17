@@ -52,13 +52,13 @@
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
 	</code>
  &nbsp; - node.js <code><a href="https://nodejs.org" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></code>
- &nbsp; - Angular <code><a href="https://angular.io" target="_blank">
+- &nbsp; - Angular <code><a href="https://angular.io" target="_blank">
 		<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
 	</a></code>
- &nbsp; - PHP <code><a href="https://www.php.net" target="_blank">
+- &nbsp; -PHP <code><a href="https://www.php.net" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 	</a></code>
-
+- &nbsp; -
 - 💻 &nbsp; Android studio
 
 C
