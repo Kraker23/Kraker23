@@ -3,6 +3,7 @@
 Soy un desarrollador Full Stack con más de 8 años de experiencia en el desarrollo de aplicaciones empresariales y software 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
