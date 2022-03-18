@@ -29,7 +29,11 @@
  <code><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </code>
 
 </p>
-
+<table><tr><td valign="top" width="50%">
+</td><td valign="top" width="50%">
+</td><td valign="top" width="50%">
+</td></tr></table>
+	
 <h3 align="left">Lenguajes y Herramientas que he uso o he usado ( de mas a menos): 🛠</h3>
 
 <table><tr><td valign="top" width="50%">
