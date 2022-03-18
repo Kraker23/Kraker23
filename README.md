@@ -34,7 +34,7 @@
 
 <table><tr><td valign="top" width="400px">
 
-<h4 align="left"> <u>-> 🖥 IDEs o herramientas:</u></h4>
+<h4 align="left" style=" text-decoration: underline;"> <u>-> 🖥 IDEs o herramientas:</u></h4>
 
 - &nbsp; Visual Studio <code> <a href="https://visualstudio.microsoft.com/es/vs/" target="_blank"><img src="https://1000marcas.net/wp-content/uploads/2020/12/Visual-Studio-Logo.png" alt="VisualStudio" height="20"/></a></code>
 
