@@ -46,7 +46,7 @@
 
 
 
- <a href="" target="_blank"><img src="" alt="" height="20"/></a>
+
 
 
 <h3 align="left"> -> 🖥 IDEs o herramientas:</h3>
@@ -72,18 +72,18 @@
 - &nbsp;  Unity <code> <a href="https://unity.com/" target="_blank"><img src="https://img2.freepng.es/20180828/oha/kisspng-unity-3d-computer-graphics-video-games-augmented-r-5b8597ae517de9.3224610015354817743338.jpg" alt="Unity" height="20"/></a></code>
 
 <h3 align="left"> -> 💻 Lenguajes:</h3>
-- 💻 &nbsp; C# <code></code>
-- 💻 &nbsp; Java <code></code>
-- 💻 &nbsp; C <code></code>
-- 💻 &nbsp; C++ <code></code>
-- 💻 &nbsp; Python <code></code>
+- &nbsp;  C# <code> <a href="" target="_blank"><img src="" alt="" height="20"/></a></code>
+- &nbsp;  Java <code> <a href="" target="_blank"><img src="" alt="" height="20"/></a></code>
+- &nbsp;  C <code> <a href="" target="_blank"><img src="" alt="" height="20"/></a></code>
+- &nbsp;  C++ <code> <a href="" target="_blank"><img src="" alt="" height="20"/></a></code>
+- &nbsp;  Python <code> <a href="" target="_blank"><img src="" alt="" height="20"/></a></code>
 
 <h3 align="left"> -> 🛢 BBDD:</h3>
-- 💻 &nbsp; TSQL <code></code>
-- 💻 &nbsp; Mysql <code></code>
-- 💻 &nbsp; Firebase <code></code>
-- 💻 &nbsp; PostgresSql <code></code>
-- 💻 &nbsp; Oracle <code></code>
+- &nbsp;  TSQL <code> <a href="" target="_blank"><img src="" alt="" height="20"/></a></code>
+- &nbsp;  Mysql <code> <a href="" target="_blank"><img src="" alt="" height="20"/></a></code>
+- &nbsp;  Firebase <code> <a href="" target="_blank"><img src="" alt="" height="20"/></a></code>
+- &nbsp;  PostgresSql <code> <a href="" target="_blank"><img src="" alt="" height="20"/></a></code>
+- &nbsp;  Oracle <code> <a href="" target="_blank"><img src="" alt="" height="20"/></a></code>
 
 
 <h3 align="left"> -> 🌐 Web:</h3>
