@@ -5,7 +5,7 @@
 </h3>
 
 <h4>Soy un desarrollador Full Stack con más de 6 años de experiencia en el desarrollo de aplicaciones empresariales y mantenimiento </h4>
-
+⭐️ Saber Quien soy (Currículum Vitae ) -> [Quien Soy](https://github.com/Kraker23/Kraker23/blob/main/CV.md)
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="150" height="150"/>
 
@@ -121,6 +121,8 @@
 
 - 📫 How to reach me **thekraker23@gmail.com**
 
+⭐️ Como saber quien soy -> [Quien Soy](https://github.com/Kraker23/Kraker23/edit/main/Mivida.md)
+⭐️ Saber Quien soy (Currículum Vitae ) -> [Quien Soy](https://github.com/Kraker23/Kraker23/blob/main/CV.md)
 ⭐️ Repositorio de mi etapa de estudiante [github-CristianJRamirez](https://github.com/CristianJRamirez)
 
 ⭐️ From [Kraker23](https://github.com/Kraker23)
