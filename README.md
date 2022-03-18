@@ -32,7 +32,7 @@
 
 <h3 align="left">Lenguajes y Herramientas que he uso o he usado ( de mas a menos): 🛠</h3>
 
-<table><tr><td valign="top" width="34%">
+<table><tr><td valign="top" width="50%">
 
 <h4 align="left"> -> 🖥 IDEs o herramientas:</h4>
 
