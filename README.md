@@ -31,7 +31,7 @@
 
 </p>
 	
-<h3 align="left">Lenguajes y Herramientas que he uso o he usado, por Categorias ( de mas a menos): 🛠</h3>
+<h3 align="left">Lenguajes y Herramientas que uso o he usado, por Categorias ( de mas a menos): 🛠</h3>
 
 <table><tr><td valign="top" width="400px">
 
