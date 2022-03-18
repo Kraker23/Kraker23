@@ -8,12 +8,15 @@ using System.Threading.Tasks;
 
 using System.Text.Json;
 namespace MiVida
-{    
-    public static void Main()
+{
+    public static class Program
     {
-        Yo me = new Yo();
+        public static void Main()
+        {
+            Yo me = new Yo();
 
-        string jsonString = JsonSerializer.Serialize(me);
+            string jsonString = JsonSerializer.Serialize(me);
+        }
     }
 
     public class Yo
