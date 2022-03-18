@@ -118,11 +118,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kraker23&label=Profile%20views&color=c40000&style=flat-square" alt="kraker23" /> </p>
 
+
 - 📫 How to reach me **thekraker23@gmail.com**
+
+⭐️ Repositorio de mi etapa de estudiante [github-CristianJRamirez](https://github.com/CristianJRamirez)
+
 ⭐️ From [Kraker23](https://github.com/Kraker23)
-
-⭐️ Mi Repositorio de en mi etapa de estudiante [github-CristianJRamirez](https://github.com/CristianJRamirez)
-
 
 
 ```php
