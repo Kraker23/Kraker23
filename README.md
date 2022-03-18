@@ -73,6 +73,9 @@
 
 <h4 align="left"> -> 🛢 BBDD:</h4>
 
+	
+	
+	
 - &nbsp;  TSQL <code><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Tsql" height="20"/> </a> </code>
 
 - &nbsp;  Mysql  <code><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="20"/></a></code>
