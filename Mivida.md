@@ -24,6 +24,8 @@ namespace MiVida
         public string nombre { get { return "Cristian Javier"; } }
         public string apellidos { get { return "Ramirez Arroyo"; } }
         public string poblacion { get { return "Barcelona"; } }
+        public DateTime fechaNacimiento { get { return new DateTime(1994, 4, 12); } }
+        public int edad { get { return DateTime.Today.AddTicks(-fechaNacimiento.Ticks).Year - 1; } }
 
         public List<Estudio> estudios { get; set; }
         public List<Trabajo> trabajos { get; set; }
