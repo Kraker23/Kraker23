@@ -36,7 +36,7 @@
 	
 <h3 align="left">Lenguajes y Herramientas que he uso o he usado ( de mas a menos): 🛠</h3>
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="400px">
 
 <h4 align="left"> -> 🖥 IDEs o herramientas:</h4>
 
@@ -60,7 +60,7 @@
 
 - &nbsp;  Unity <code> <a href="https://unity.com/" target="_blank"><img src="https://img2.freepng.es/20180828/oha/kisspng-unity-3d-computer-graphics-video-games-augmented-r-5b8597ae517de9.3224610015354817743338.jpg" alt="Unity" height="20"/></a></code>
 	
-</td><td valign="top" width="50%">
+</td><td valign="top" width="250px">
 	
 <h4 align="left"> -> 💻 Lenguajes:</h4>
 
@@ -86,7 +86,7 @@
 
 - &nbsp;  Firebase <code> <a href="https://firebase.google.com/" target="_blank"><img src="https://e7.pngegg.com/pngimages/331/583/png-clipart-firebase-computer-icons-mobile-backend-as-a-service-mobile-app-google-cloud-angle-cloud.png" alt="Firebase" height="20"/></a></code>
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="250px">
 	
 <h4 align="left"> -> 🌐 Web:</h4>
 
