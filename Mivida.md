@@ -15,7 +15,8 @@ namespace MiVida
     }
 }
  ```
-⭐️ Saber Quien soy (Currículum Vitae ) -> [Quien Soy](https://github.com/Kraker23/Kraker23/blob/main/CV.md)
+
+⭐️ Saber Quien soy-> [Currículum Vitae](https://github.com/Kraker23/Kraker23/blob/main/CV.md)
 
 
 ## Quien Soy?
