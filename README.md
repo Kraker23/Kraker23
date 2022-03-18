@@ -72,18 +72,25 @@
 - &nbsp;  Unity <code> <a href="https://unity.com/" target="_blank"><img src="https://img2.freepng.es/20180828/oha/kisspng-unity-3d-computer-graphics-video-games-augmented-r-5b8597ae517de9.3224610015354817743338.jpg" alt="Unity" height="20"/></a></code>
 
 <h3 align="left"> -> 💻 Lenguajes:</h3>
-- &nbsp;  C# <code> <a href="" target="_blank"><img src="" alt="" height="20"/></a></code>
-- &nbsp;  Java <code> <a href="" target="_blank"><img src="" alt="" height="20"/></a></code>
-- &nbsp;  C <code> <a href="" target="_blank"><img src="" alt="" height="20"/></a></code>
-- &nbsp;  C++ <code> <a href="" target="_blank"><img src="" alt="" height="20"/></a></code>
-- &nbsp;  Python <code> <a href="" target="_blank"><img src="" alt="" height="20"/></a></code>
+
+- &nbsp;  C# <code><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" height="20"/> </a> </code>
+- 
+- &nbsp;  Java <code> <a href="https://www.java.com/es/download/help/whatis_java.html" target="_blank"><img src="https://w7.pngwing.com/pngs/961/251/png-transparent-java-runtime-environment-programming-language-programmer-computer-programming-java-text-logo-software-developer.png" alt="Java" height="20"/></a></code>
+- 
+- &nbsp;  C <code><a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="20"/></a></code>
+- 
+- &nbsp;  C++ <code><a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="20"/></a></code>
+- 
+- &nbsp;  Python <code><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="20"/></a></code>
+- 
 
 <h3 align="left"> -> 🛢 BBDD:</h3>
-- &nbsp;  TSQL <code> <a href="" target="_blank"><img src="" alt="" height="20"/></a></code>
-- &nbsp;  Mysql <code> <a href="" target="_blank"><img src="" alt="" height="20"/></a></code>
-- &nbsp;  Firebase <code> <a href="" target="_blank"><img src="" alt="" height="20"/></a></code>
-- &nbsp;  PostgresSql <code> <a href="" target="_blank"><img src="" alt="" height="20"/></a></code>
-- &nbsp;  Oracle <code> <a href="" target="_blank"><img src="" alt="" height="20"/></a></code>
+
+- &nbsp;  TSQL <code><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Tsql" height="20"/> </a> </code>
+
+- &nbsp;  Mysql  <code><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="20"/></a></code>
+
+- &nbsp;  Firebase <code> <a href="https://firebase.google.com/" target="_blank"><img src="https://e7.pngegg.com/pngimages/331/583/png-clipart-firebase-computer-icons-mobile-backend-as-a-service-mobile-app-google-cloud-angle-cloud.png" alt="Firebase" height="20"/></a></code>
 
 
 <h3 align="left"> -> 🌐 Web:</h3>
