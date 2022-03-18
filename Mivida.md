@@ -6,8 +6,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+using System.Text.Json;
 namespace MiVida
 {    
+    public static void Main()
+    {
+        Yo me = new Yo();
+
+        string jsonString = JsonSerializer.Serialize(me);
+    }
+
     public class Yo
     {
         public string nombre { get { return "Cristian Javier"; } }
@@ -23,8 +31,6 @@ namespace MiVida
             Estudiar();
             Trabajar();
             Herramientas();
-
-            InfoToJson();
         }
 
 
@@ -126,12 +132,7 @@ namespace MiVida
             herramientas.Add(new Herramientas("Editores", "Sublime Text", "NotePad ++", ""));
             herramientas.Add(new Herramientas("Otras Herramientas", "Forks", "git", ""));
             herramientas.Add(new Herramientas("Otros ", "Arduino", "Raspberry Pi", "Unity"));
-        }
-
-        private void InfoToJson()
-        {
-            throw new NotImplementedException();
-        }
+        }       
     }
 
     public class Estudio
