@@ -29,10 +29,6 @@
  <code><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </code>
 
 </p>
-<table><tr><td valign="top" width="400px">
-</td><td valign="top" width="400px">
-</td><td valign="top" width="400px">
-</td></tr></table>
 	
 <h3 align="left">Lenguajes y Herramientas que he uso o he usado ( de mas a menos): 🛠</h3>
 
@@ -75,6 +71,7 @@
 - &nbsp;  Python <code><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="20"/></a></code>
 	
 
+<br>
 <h4 align="left"> -> 🛢 BBDD:</h4>
 
 	
