@@ -1,12 +1,7 @@
-## Quien Soy?
+##Saber Quien soy
  ```C#
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 using System.Text.Json;
+
 namespace MiVida
 {
     public static class Program
@@ -18,7 +13,21 @@ namespace MiVida
             string jsonString = JsonSerializer.Serialize(me);
         }
     }
+}
+ ```
 
+
+## Quien Soy?
+ ```C#
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+using System.Text.Json;
+namespace MiVida
+{
     public class Yo
     {
         public string nombre { get { return "Cristian Javier"; } }
