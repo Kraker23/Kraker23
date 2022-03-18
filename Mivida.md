@@ -10,11 +10,12 @@ namespace MiVida
         {
             Yo me = new Yo();
 
-            string jsonString = JsonSerializer.Serialize(me);
+            string quienSoy = JsonSerializer.Serialize(me);
         }
     }
 }
  ```
+⭐️ Saber Quien soy (Currículum Vitae ) -> [Quien Soy](https://github.com/Kraker23/Kraker23/blob/main/CV.md)
 
 
 ## Quien Soy?
