@@ -122,7 +122,7 @@
 
 - 📫 How to reach me **thekraker23@gmail.com**
 
-⭐️ Como saber quien soy -> [Quien Soy](https://github.com/Kraker23/Kraker23/edit/main/Mivida.md)
+⭐️ Como saber quien soy -> [Codigo de Quien Soy](https://github.com/Kraker23/Kraker23/edit/main/Mivida.md)
 
 ⭐️ Saber Quien soy-> [Currículum Vitae](https://github.com/Kraker23/Kraker23/blob/main/CV.md)
 
