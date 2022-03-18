@@ -50,16 +50,26 @@
 
 
 <h3 align="left"> -> 🖥 IDEs o herramientas:</h3>
-- 💻 &nbsp; Visual Studio <code> <a href="https://visualstudio.microsoft.com/es/vs/" target="_blank"><img src="https://1000marcas.net/wp-content/uploads/2020/12/Visual-Studio-Logo.png" alt="VisualStudio" height="20"/></a></code>
-- 💻 &nbsp; IntelliJ IDEA <code><a href="https://www.jetbrains.com/es-es/idea/" target="_blank"><img src="https://e7.pngegg.com/pngimages/788/545/png-clipart-ij-logo-with-black-blue-red-and-orange-background-intellij-idea-logo-icons-logos-emojis-tech-companies.png" alt="IntelliJIdea" height="20"/></a></code>
-- 💻 &nbsp; Sublime Text <code><a href="https://www.sublimetext.com/" target="_blank"><img src="https://img2.freepng.es/20180509/lqq/kisspng-sublime-text-text-editor-macos-source-code-editor-5af29e0e179d92.2809249515258496140967.jpg" alt="SublimeText" height="20"/></a></code>
-- 💻 &nbsp; NotePad++ <code><a href="https://notepad-plus-plus.org/downloads/" target="_blank"><img src="https://e7.pngegg.com/pngimages/127/957/png-clipart-notepad-source-code-editor-text-editor-microsoft-text-logo.png" alt="NotePad" height="20"/></a></code>
-- 💻 &nbsp; Forks <code> <a href="https://git-fork.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtjfMaqS5sylEovY3rXyCJkV1K5DygduYyBQ&usqp=CAU" alt="Forks" height="20"/></a></code>
-- 💻 &nbsp; Arduino <code> <a href="https://www.arduino.cc/" target="_blank"><img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="Arduino" height="20"/></a></code>
-- 💻 &nbsp; Android studio <code><a href="https://developer.android.com/studio?hl=es&gclid=Cj0KCQjw29CRBhCUARIsAOboZbIwpph0Y8Qn9acgR2E0WT5suvwtUZwGyfxNf5a_80IGmbxq5U9IxS0aAlW4EALw_wcB&gclsrc=aw.ds" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" alt="Android studio" height="20"/></a></code>
-- 💻 &nbsp; Git <code><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="20"/></a></code>
-- 💻 &nbsp; Raspberry Pi <code> <a href="https://www.raspberrypi.org/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz5hCpZOwpzRw5GcpTQmv0rvbHbIlgGbE9Ow&usqp=CAU" alt="Raspberry Pi" height="20"/></a></code>
-- 💻 &nbsp; Unity <code> <a href="https://unity.com/" target="_blank"><img src="https://img2.freepng.es/20180828/oha/kisspng-unity-3d-computer-graphics-video-games-augmented-r-5b8597ae517de9.3224610015354817743338.jpg" alt="Unity" height="20"/></a></code>
+
+- &nbsp; Visual Studio <code> <a href="https://visualstudio.microsoft.com/es/vs/" target="_blank"><img src="https://1000marcas.net/wp-content/uploads/2020/12/Visual-Studio-Logo.png" alt="VisualStudio" height="20"/></a></code>
+
+- &nbsp; IntelliJ IDEA <code><a href="https://www.jetbrains.com/es-es/idea/" target="_blank"><img src="https://e7.pngegg.com/pngimages/788/545/png-clipart-ij-logo-with-black-blue-red-and-orange-background-intellij-idea-logo-icons-logos-emojis-tech-companies.png" alt="IntelliJIdea" height="20"/></a></code>
+
+- &nbsp; Sublime Text <code><a href="https://www.sublimetext.com/" target="_blank"><img src="https://img2.freepng.es/20180509/lqq/kisspng-sublime-text-text-editor-macos-source-code-editor-5af29e0e179d92.2809249515258496140967.jpg" alt="SublimeText" height="20"/></a></code>
+
+- &nbsp; NotePad++ <code><a href="https://notepad-plus-plus.org/downloads/" target="_blank"><img src="https://e7.pngegg.com/pngimages/127/957/png-clipart-notepad-source-code-editor-text-editor-microsoft-text-logo.png" alt="NotePad" height="20"/></a></code>
+
+- &nbsp; Forks <code> <a href="https://git-fork.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtjfMaqS5sylEovY3rXyCJkV1K5DygduYyBQ&usqp=CAU" alt="Forks" height="20"/></a></code>
+
+- &nbsp; Arduino <code> <a href="https://www.arduino.cc/" target="_blank"><img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="Arduino" height="20"/></a></code>
+
+- &nbsp; Android studio <code><a href="https://developer.android.com/studio?hl=es&gclid=Cj0KCQjw29CRBhCUARIsAOboZbIwpph0Y8Qn9acgR2E0WT5suvwtUZwGyfxNf5a_80IGmbxq5U9IxS0aAlW4EALw_wcB&gclsrc=aw.ds" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" alt="Android studio" height="20"/></a></code>
+
+- &nbsp; Git <code><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="20"/></a></code>
+
+- &nbsp;  Raspberry Pi <code> <a href="https://www.raspberrypi.org/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz5hCpZOwpzRw5GcpTQmv0rvbHbIlgGbE9Ow&usqp=CAU" alt="Raspberry Pi" height="20"/></a></code>
+
+- &nbsp;  Unity <code> <a href="https://unity.com/" target="_blank"><img src="https://img2.freepng.es/20180828/oha/kisspng-unity-3d-computer-graphics-video-games-augmented-r-5b8597ae517de9.3224610015354817743338.jpg" alt="Unity" height="20"/></a></code>
 
 <h3 align="left"> -> 💻 Lenguajes:</h3>
 - 💻 &nbsp; C# <code></code>
@@ -77,6 +87,7 @@
 
 
 <h3 align="left"> -> 🌐 Web:</h3>
+
 - &nbsp; HTML <code><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="20"/></a></code>
  
 - &nbsp; CSS <code><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="20"/></a></code>
