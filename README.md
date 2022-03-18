@@ -74,15 +74,15 @@
 <h3 align="left"> -> 💻 Lenguajes:</h3>
 
 - &nbsp;  C# <code><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" height="20"/> </a> </code>
-- 
+
 - &nbsp;  Java <code> <a href="https://www.java.com/es/download/help/whatis_java.html" target="_blank"><img src="https://w7.pngwing.com/pngs/961/251/png-transparent-java-runtime-environment-programming-language-programmer-computer-programming-java-text-logo-software-developer.png" alt="Java" height="20"/></a></code>
-- 
+
 - &nbsp;  C <code><a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="20"/></a></code>
-- 
+
 - &nbsp;  C++ <code><a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="20"/></a></code>
-- 
+
 - &nbsp;  Python <code><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="20"/></a></code>
-- 
+
 
 <h3 align="left"> -> 🛢 BBDD:</h3>
 
