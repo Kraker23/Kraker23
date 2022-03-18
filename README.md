@@ -32,6 +32,7 @@
 
 <h3 align="left">Lenguajes y Herramientas que he uso o he usado ( de mas a menos): 🛠</h3>
 
+<table><tr><td valign="top" width="33%">
 
 <h4 align="left"> -> 🖥 IDEs o herramientas:</h4>
 
@@ -54,7 +55,9 @@
 - &nbsp;  Raspberry Pi <code> <a href="https://www.raspberrypi.org/" target="_blank"><img src="https://w7.pngwing.com/pngs/540/279/png-transparent-raspberry-pi-foundation-raspberry-pi-3-raspbian-the-magpi-raspberry-pi-logo-magenta-arduino.png" alt="Raspberry Pi" height="20"/></a></code>
 
 - &nbsp;  Unity <code> <a href="https://unity.com/" target="_blank"><img src="https://img2.freepng.es/20180828/oha/kisspng-unity-3d-computer-graphics-video-games-augmented-r-5b8597ae517de9.3224610015354817743338.jpg" alt="Unity" height="20"/></a></code>
-
+	
+</td><td valign="top" width="34%">
+	
 <h4 align="left"> -> 💻 Lenguajes:</h4>
 
 - &nbsp;  C# <code><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" height="20"/> </a> </code>
@@ -66,7 +69,8 @@
 - &nbsp;  C++ <code><a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="20"/></a></code>
 
 - &nbsp;  Python <code><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="20"/></a></code>
-
+	
+</td><td valign="top" width="33%">
 
 <h4 align="left"> -> 🛢 BBDD:</h4>
 
@@ -76,7 +80,8 @@
 
 - &nbsp;  Firebase <code> <a href="https://firebase.google.com/" target="_blank"><img src="https://e7.pngegg.com/pngimages/331/583/png-clipart-firebase-computer-icons-mobile-backend-as-a-service-mobile-app-google-cloud-angle-cloud.png" alt="Firebase" height="20"/></a></code>
 
-
+</td><td valign="top" width="33%">
+	
 <h4 align="left"> -> 🌐 Web:</h4>
 
 - &nbsp; HTML <code><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="20"/></a></code>
@@ -96,7 +101,7 @@
 - &nbsp; PHP <code><a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="20"/></a></code>
 
 
-
+</td></tr></table>
 
 
 <h3 align="left">🤝🏻 Connect with me: 🔗</h3>
