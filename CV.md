@@ -4,6 +4,8 @@
   "nombre": "Cristian Javier",
   "apellidos": "Ramirez Arroyo",
   "poblacion": "Barcelona",
+  "fechaNacimiento": "1994-04-12T00:00:00",
+  "edad": 27,
   "estudios": [
     {
       "formacion": "Bachillerato Tecnologio",
