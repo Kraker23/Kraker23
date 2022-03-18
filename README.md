@@ -67,7 +67,7 @@
 
 - &nbsp; Git <code><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="20"/></a></code>
 
-- &nbsp;  Raspberry Pi <code> <a href="https://www.raspberrypi.org/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz5hCpZOwpzRw5GcpTQmv0rvbHbIlgGbE9Ow&usqp=CAU" alt="Raspberry Pi" height="20"/></a></code>
+- &nbsp;  Raspberry Pi <code> <a href="https://www.raspberrypi.org/" target="_blank"><img src="https://flyclipart.com/thumb2/raspberry-pi-icon-143852.png" alt="Raspberry Pi" height="20"/></a></code>
 
 - &nbsp;  Unity <code> <a href="https://unity.com/" target="_blank"><img src="https://img2.freepng.es/20180828/oha/kisspng-unity-3d-computer-graphics-video-games-augmented-r-5b8597ae517de9.3224610015354817743338.jpg" alt="Unity" height="20"/></a></code>
 
