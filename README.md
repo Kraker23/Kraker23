@@ -121,6 +121,8 @@
 - 📫 How to reach me **thekraker23@gmail.com**
 ⭐️ From [Kraker23](https://github.com/Kraker23)
 
+⭐️ Mi Repositorio de en mi etapa de estudiante [github-CristianJRamirez](https://github.com/CristianJRamirez)
+
 
 
 ```php
