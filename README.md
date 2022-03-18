@@ -30,11 +30,11 @@
 
 </p>
 	
-<h3 align="left">Lenguajes y Herramientas que he uso o he usado ( de mas a menos): 🛠</h3>
+<h3 align="left">Lenguajes y Herramientas que he uso o he usado, por Categorias ( de mas a menos): 🛠</h3>
 
 <table><tr><td valign="top" width="400px">
 
-<h4 align="left" style=" text-decoration: underline;"> <u>-> 🖥 IDEs o herramientas:</u></h4>
+<h4 align="left">-> 🖥 IDEs o herramientas:</h4>
 
 - &nbsp; Visual Studio <code> <a href="https://visualstudio.microsoft.com/es/vs/" target="_blank"><img src="https://1000marcas.net/wp-content/uploads/2020/12/Visual-Studio-Logo.png" alt="VisualStudio" height="20"/></a></code>
 
@@ -58,7 +58,7 @@
 	
 </td><td valign="top" width="250px">
 	
-<h4 align="left"> <u>-> 💻 Lenguajes:</u></h4>
+<h4 align="left"> -> 💻 Lenguajes:</h4>
 
 - &nbsp;  C# <code><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" height="20"/> </a> </code>
 
@@ -72,10 +72,8 @@
 	
 
 <br>
-<h4 align="left"> <u>-> 🛢 BBDD:</u></h4>
+<h4 align="left"> -> 🛢 BBDD:</h4>
 
-	
-	
 	
 - &nbsp;  TSQL <code><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Tsql" height="20"/> </a> </code>
 
@@ -85,7 +83,8 @@
 
 </td><td valign="top" width="250px">
 	
-<h4 align="left"> -> <u>🌐 Web:</u></h4>
+	
+<h4 align="left"> -> 🌐 Web:</h4>
 
 - &nbsp; HTML <code><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="20"/></a></code>
  
