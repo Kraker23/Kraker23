@@ -6,7 +6,7 @@
 
 <h4>Soy un desarrollador Full Stack con más de 6 años de experiencia en el desarrollo de aplicaciones empresariales y mantenimiento </h4>
 
-⭐️ Saber Quien soy-> [Currículum Vitae](https://github.com/Kraker23/Kraker23/blob/main/CV.md)
+⭐️ Saber quién soy-> [Currículum Vitae](https://github.com/Kraker23/Kraker23/blob/main/CV.md)
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="150" height="150"/>
 
@@ -15,9 +15,9 @@
 
 
 - 🔭 &nbsp; Actualmente y siempre estoy en mejora constante.
-- 💼 &nbsp; Me encanta el poder crear herramientas para poder agilizar mi trabajo, o hacerlo mas facil.
-- ✍️ &nbsp; Me gusta aprender nuevas formas de crear codigo y programas.
-- ☕ &nbsp; Me gusta trabajar en un equipo con buen ambiente, donde poder hablar y debatir sobre programacion, entre otros temas. 
+- 💼 &nbsp; Me encanta el poder crear herramientas para poder agilizar mi trabajo, o hacerlo más fácil.
+- ✍️ &nbsp; Me gusta aprender nuevas formas de crear código y programas.
+- ☕ &nbsp; Me gusta trabajar en un equipo con buen ambiente, donde poder hablar y debatir sobre programación, entre otros temas. 
 
 
 
@@ -31,7 +31,7 @@
 
 </p>
 	
-<h3 align="left">Lenguajes y Herramientas que uso o he usado, por Categorias ( de mas a menos): 🛠</h3>
+<h3 align="left">Lenguajes y Herramientas que uso o he usado, por Categorías ( de más a menos): 🛠</h3>
 
 <table><tr><td valign="top" width="400px">
 
@@ -122,9 +122,9 @@
 
 - 📫 How to reach me **thekraker23@gmail.com**
 
-⭐️ Como saber quien soy -> [Codigo de Quien Soy](https://github.com/Kraker23/Kraker23/blob/main/Mivida.md)
+⭐️ Como saber quién soy -> [Codigo de Quien Soy](https://github.com/Kraker23/Kraker23/blob/main/Mivida.md)
 
-⭐️ Saber Quien soy-> [Currículum Vitae](https://github.com/Kraker23/Kraker23/blob/main/CV.md)
+⭐️ Saber quién soy-> [Currículum Vitae](https://github.com/Kraker23/Kraker23/blob/main/CV.md)
 
 ⭐️ Repositorio de mi etapa de estudiante [github-CristianJRamirez](https://github.com/CristianJRamirez)
 
