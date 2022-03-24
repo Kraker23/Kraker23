@@ -1,3 +1,5 @@
+ ⭐️ [Currículum Vitae PDF](https://github.com/Kraker23/Kraker23/blob/main/CV.pdf)
+ 
  ```Json
 
 {
