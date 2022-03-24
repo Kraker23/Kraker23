@@ -127,7 +127,7 @@ namespace MiVida
                        puesto = "Programador",
                        empresa = "ESKAPE CONSULTING S.L.",
                        fechaInicio = new DateTime(2016, 6, 1),
-                       fechaFinal = DateTime.Now,
+                      // fechaFinal = DateTime.Now,
                        trabajosRealizado = " - Creación y mantenimiento de páginas internas de la empresa para el servicio Itil, con tecnología MVC. " +
                        " - Desarrollo de la parte de Reporting de un programa para las ITVs" +
                         "Mantenimiento y desarrollo de un programa dedicado a los anuncioas (Television y Internet). De mas de 15 años de desarrollo. Mantenimiento de su respectiva base de datos. " +
