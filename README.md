@@ -7,7 +7,7 @@
 <h4>Soy un desarrollador Full Stack con más de 6 años de experiencia en el desarrollo de aplicaciones empresariales y mantenimiento </h4>
 
 ⭐️ Saber quién soy-> [Currículum Vitae](https://github.com/Kraker23/Kraker23/blob/main/CV.md)
- [Currículum Vitae PDF] (https://github.com/Kraker23/Kraker23/blob/main/CV.pdf)
+ [Currículum Vitae PDF](https://github.com/Kraker23/Kraker23/blob/main/CV.pdf)
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="150" height="150"/>
 
