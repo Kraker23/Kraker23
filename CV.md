@@ -54,8 +54,7 @@
       "puesto": "Programador",
       "empresa": "ESKAPE CONSULTING S.L.",
       "trabajosRealizado": " - Creaci\u00F3n y mantenimiento de p\u00E1ginas internas de la empresa para el servicio Itil, con tecnolog\u00EDa MVC.  - Desarrollo de la parte de Reporting de un programa para las ITVsMantenimiento y desarrollo de un programa dedicado a los anuncioas (Television y Internet). De mas de 15 a\u00F1os de desarrollo. Mantenimiento de su respectiva base de datos. Con uso diario, con mas de 300 usuarios activos al d\u00EDa.Y resoluci\u00F3n de incidencias. - Desarrollo y gestion de un proyecto para las ITVs (destinado a fuera de Espa\u00F1a). Para adaptar un programa existenta a una version con las necesidades del cliente nuevo.Realizar comunicacion con el cliente para evaluar requerimientos y necesidades, para adpatarlas al programa actual.",
-      "fechaInicio": "2016-06-01T00:00:00",
-      "fechaFinal": "2022-03-18T20:22:52.7996731+01:00"
+      "fechaInicio": "2016-06-01T00:00:00"      
     }
   ],
   "herramientas": [
