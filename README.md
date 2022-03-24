@@ -7,6 +7,7 @@
 <h4>Soy un desarrollador Full Stack con más de 6 años de experiencia en el desarrollo de aplicaciones empresariales y mantenimiento </h4>
 
 ⭐️ Saber quién soy-> [Currículum Vitae](https://github.com/Kraker23/Kraker23/blob/main/CV.md)
+⭐️ Currículum Vitae PDF-> [Currículum Vitae PDF](https://github.com/Kraker23/Kraker23/blob/main/CV.pdf)
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="150" height="150"/>
 
@@ -18,7 +19,6 @@
 - 💼 &nbsp; Me encanta el poder crear herramientas para poder agilizar mi trabajo, o hacerlo más fácil.
 - ✍️ &nbsp; Me gusta aprender nuevas formas de crear código y programas.
 - ☕ &nbsp; Me gusta trabajar en un equipo con buen ambiente, donde poder hablar y debatir sobre programación, entre otros temas. 
-
 
 
 <br>
@@ -125,6 +125,8 @@
 ⭐️ Como saber quién soy -> [Codigo de Quien Soy](https://github.com/Kraker23/Kraker23/blob/main/Mivida.md)
 
 ⭐️ Saber quién soy-> [Currículum Vitae](https://github.com/Kraker23/Kraker23/blob/main/CV.md)
+
+⭐️ Currículum Vitae PDF-> [Currículum Vitae PDF](https://github.com/Kraker23/Kraker23/blob/main/CV.pdf)
 
 ⭐️ Repositorio de mi etapa de estudiante [github-CristianJRamirez](https://github.com/CristianJRamirez)
 
