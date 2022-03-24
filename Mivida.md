@@ -16,7 +16,7 @@ namespace MiVida
 }
  ```
 
-⭐️ Saber Quien soy-> [Currículum Vitae](https://github.com/Kraker23/Kraker23/blob/main/CV.md)
+⭐️ Saber quién soy-> [Currículum Vitae](https://github.com/Kraker23/Kraker23/blob/main/CV.md)  o   [Currículum Vitae PDF](https://github.com/Kraker23/Kraker23/blob/main/CV.pdf)
 
 
 ## Quien Soy?
