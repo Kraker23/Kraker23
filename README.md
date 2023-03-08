@@ -8,7 +8,7 @@
 
 ⭐️ Saber quién soy -->
 - <img src="https://cdn-icons-png.flaticon.com/512/2343/2343734.png" width="20" height="20"> &nbsp; [Mi página en github](https://kraker23.github.io/KrakerCV).
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/1667px-PDF_file_icon.svg.png" width="20" height="20"> &nbsp; [Currículum Vitae en json](https://github.com/Kraker23/Kraker23/blob/main/CV.md).
+- <img src="https://cdn-icons-png.flaticon.com/512/136/136525.png" width="20" height="20"> &nbsp; [Currículum Vitae en json](https://github.com/Kraker23/Kraker23/blob/main/CV.md).
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/1667px-PDF_file_icon.svg.png" width="20" height="20"> &nbsp; [Currículum Vitae PDF](https://github.com/Kraker23/Kraker23/blob/main/CV.pdf).
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="150" height="150"/>
