@@ -7,10 +7,9 @@
 <h4>Soy un desarrollador Full Stack con más de 6 años de experiencia en el desarrollo de aplicaciones empresariales y mantenimiento </h4>
 
 ⭐️ Saber quién soy -->
-- 🔭 &nbsp; [Mi página en github](https://kraker23.github.io/KrakerCV).
-- 💼 &nbsp; [Currículum Vitae en json](https://github.com/Kraker23/Kraker23/blob/main/CV.md).
-- ✍️ &nbsp; [Currículum Vitae PDF](https://github.com/Kraker23/Kraker23/blob/main/CV.pdf).
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/1667px-PDF_file_icon.svg.png" width="10" height="10">
+- <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/1667px-PDF_file_icon.svg.png](https://previews.123rf.com/images/liliiakliliiakyrylenko/liliiakliliiakyrylenko1708/liliiakliliiakyrylenko170800009/83425189-icono-de-internet-s%C3%ADmbolo-del-sitio-web-signo-del-mundo.jpg)" width="20" height="20"> &nbsp; [Mi página en github](https://kraker23.github.io/KrakerCV).
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/1667px-PDF_file_icon.svg.png" width="20" height="20"> &nbsp; [Currículum Vitae en json](https://github.com/Kraker23/Kraker23/blob/main/CV.md).
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/1667px-PDF_file_icon.svg.png" width="20" height="20"> &nbsp; [Currículum Vitae PDF](https://github.com/Kraker23/Kraker23/blob/main/CV.pdf).
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="150" height="150"/>
 
